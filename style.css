@@ -1,0 +1,39 @@
+h1{
+font-size: 32px;
+text-align: center;
+color: #ffd700
+}
+
+h2{
+font-size: 26px;
+text-align: center;
+color: #ffd700
+}
+
+h5{
+font-size: 22px;
+text-align: center;
+color: #ffd700	
+}
+
+img{
+margin: auto;
+display: flex;
+}
+
+p{
+font-size: 18px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+color: #ffd700  
+}
+
+a{
+font-size: 22px;
+text-align: left;
+color: #ffd700  
+}
+
+body {
+background-color: #000000;
+}
